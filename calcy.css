@@ -1,0 +1,36 @@
+.main-bg{
+    background-color: darkkhaki;
+    height:100vh;
+    background-size: cover;
+  
+}
+
+.grid-mid{
+    padding:170px;
+    margin-left: 450px;
+}
+
+
+.butt{
+    height:70px;
+    width:70px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.bt-gap{
+    padding:20px;
+}
+.el-gap{
+    padding:12px;
+}
+
+
+.click-bt{
+    
+    height:50px;
+    width:180px;
+    margin-top: 25px;
+    margin-left: 80px;
+    
+}
